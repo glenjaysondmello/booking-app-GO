@@ -45,8 +45,8 @@ booking-app/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/booking-app.git
-   cd booking-app
+   git clone https://github.com/glenjaysondmello/booking-app-GO.git
+   cd booking-app-GO
    ```
 
 2. Initialize the Go module:
